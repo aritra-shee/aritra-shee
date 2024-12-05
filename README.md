@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Aritra Shee
-- 👀 I’m interested in DevOps, Flask Backend
-- 🌱 I’m currently learning DevOps
-- 📫 How to reach me through provided links on my profile
+
